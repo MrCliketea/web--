@@ -45,6 +45,7 @@
 	width: 40px;
 	border: 1px solid #000;
 	list-style-type: none;
+	border-left: none;
 }
 .a11a input{
 	border: none;
@@ -137,8 +138,6 @@
 	margin: 0 auto;
 	height: 800px;
 	padding-top: 70px;
-}
-.ce1{
 }
 .ce li{
 	list-style-type: none;
